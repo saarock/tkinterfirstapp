@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 700 350">
+ <defs>
+  <style type="text/css">
+    .fil1 {fill:#FEFEFE}
+    .fil0 {fill:url(#f)}
+  </style>
+   <mask id="d">
+  <linearGradient id="e" x1="349" x2="349" y1="73.15" y2="169.45" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+    <rect x="37" y="73" width="623" height="96" fill="url(#e)"/>
+   </mask>
+  <linearGradient id="f" x1="349" x2="349" y1="131.01" y2="228.99" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#CA5421" offset="0"/>
+   <stop stop-color="#EE771C" offset="1"/>
+  </linearGradient>
+ </defs>
+  <rect class="fil0" x="25" y="73" width="648" height="213" rx="70" ry="70"/>
+  <path class="fil1" d="m95 73h507c32 0 58 26 58 58v7c0 17-14 32-32 32h-560c-17 0-32-14-32-32v-7c0-32 26-58 58-58z" mask="url(#d)"/>
+</svg>
